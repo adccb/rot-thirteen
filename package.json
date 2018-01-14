@@ -1,0 +1,22 @@
+{
+  "name": "rot-thirteen",
+  "version": "1.0.0",
+  "description": "a rot13 package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxtetrachord/rot-thirteen.git"
+  },
+  "author": "autumn crossan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxtetrachord/rot-thirteen/issues"
+  },
+  "homepage": "https://github.com/mxtetrachord/rot-thirteen#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
